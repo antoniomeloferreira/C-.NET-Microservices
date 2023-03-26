@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
-using Mango.Services.ProductAPI.DbContexts.Models;
-using Mango.Services.ProductAPI.DbContexts.Models.Dto;
+using Mango.Services.ProductAPI.Models;
+using Mango.Services.ProductAPI.Models.Dto;
 
 namespace Mango.Services.ProductAPI
 {
